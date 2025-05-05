@@ -1,0 +1,15 @@
+C:\Users\2431106\Documents\Code\Prog2\Pratique2\Simu2\Simu2\bin\Debug\net8.0\Simu2.exe
+C:\Users\2431106\Documents\Code\Prog2\Pratique2\Simu2\Simu2\bin\Debug\net8.0\Simu2.deps.json
+C:\Users\2431106\Documents\Code\Prog2\Pratique2\Simu2\Simu2\bin\Debug\net8.0\Simu2.runtimeconfig.json
+C:\Users\2431106\Documents\Code\Prog2\Pratique2\Simu2\Simu2\bin\Debug\net8.0\Simu2.dll
+C:\Users\2431106\Documents\Code\Prog2\Pratique2\Simu2\Simu2\bin\Debug\net8.0\Simu2.pdb
+C:\Users\2431106\Documents\Code\Prog2\Pratique2\Simu2\Simu2\obj\Debug\net8.0\Simu2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2431106\Documents\Code\Prog2\Pratique2\Simu2\Simu2\obj\Debug\net8.0\Simu2.AssemblyInfoInputs.cache
+C:\Users\2431106\Documents\Code\Prog2\Pratique2\Simu2\Simu2\obj\Debug\net8.0\Simu2.AssemblyInfo.cs
+C:\Users\2431106\Documents\Code\Prog2\Pratique2\Simu2\Simu2\obj\Debug\net8.0\Simu2.csproj.CoreCompileInputs.cache
+C:\Users\2431106\Documents\Code\Prog2\Pratique2\Simu2\Simu2\obj\Debug\net8.0\Simu2.sourcelink.json
+C:\Users\2431106\Documents\Code\Prog2\Pratique2\Simu2\Simu2\obj\Debug\net8.0\Simu2.dll
+C:\Users\2431106\Documents\Code\Prog2\Pratique2\Simu2\Simu2\obj\Debug\net8.0\refint\Simu2.dll
+C:\Users\2431106\Documents\Code\Prog2\Pratique2\Simu2\Simu2\obj\Debug\net8.0\Simu2.pdb
+C:\Users\2431106\Documents\Code\Prog2\Pratique2\Simu2\Simu2\obj\Debug\net8.0\Simu2.genruntimeconfig.cache
+C:\Users\2431106\Documents\Code\Prog2\Pratique2\Simu2\Simu2\obj\Debug\net8.0\ref\Simu2.dll

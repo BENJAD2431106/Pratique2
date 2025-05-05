@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Moteur m = new Moteur();
+            VTT vtt = new VTT("VTT1", "Yamaha", 44556, new Moteur());
+            Console.WriteLine(vtt);
         }
     }
 }
