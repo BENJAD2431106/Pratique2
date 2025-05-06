@@ -34,11 +34,11 @@ namespace Simu2
         }
         public static bool operator >(Moteur moteur1, Moteur moteur2)
         {
-            return moteur1 > moteur2;
+            return moteur1.Chevaux > moteur2.Chevaux;
         }
         public static bool operator <(Moteur moteur1, Moteur moteur2)
         {
-            return moteur1 < moteur2;
+            return moteur1.Chevaux < moteur2.Chevaux;
         }
     }
 }

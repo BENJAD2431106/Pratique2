@@ -16,6 +16,8 @@ namespace Simu2
         Type Type {  get; set; }
         public MotoMarine(string nom, string marque, double prix, Moteur moteur) : base(nom, marque, prix, moteur)
             { Type = Type.SeaDoo; }
+        public MotoMarine(string nom, string marque, double prix, Moteur moteur, Type type) : base(nom, marque, prix, moteur)
+        { Type = type; }
         public override string ToString()
         {
             return Type+" "+base.ToString();

@@ -8,8 +8,8 @@ namespace Simu2
 {
     public class Client
     {
-        string NomComplet { get; set; }
-        double Montant { get; set; }
+        public string NomComplet { get; set; }
+        public double Montant { get; set; }
         public Client(string nom, double mt)
         {
             NomComplet = nom;

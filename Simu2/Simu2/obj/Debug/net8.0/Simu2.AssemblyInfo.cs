@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Simu2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c31310b7e71ea91ff477d789666f320127bfb62a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15ce5b99c22f34318827bbf447005a20d654ad7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Simu2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Simu2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

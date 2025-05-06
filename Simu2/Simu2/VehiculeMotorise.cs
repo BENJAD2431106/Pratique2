@@ -8,10 +8,10 @@ namespace Simu2
 {
     public class VehiculeMotorise
     {
-        string Nom {  get; set; }
+        public string Nom {  get; set; }
         string Marque { get; set; }
         public double Prix { get; set; }
-        Moteur Moteur { get; set; }
+        public Moteur Moteur { get; set; }
 
         protected VehiculeMotorise(string nom, string marque, double prix, Moteur moteur)
         {

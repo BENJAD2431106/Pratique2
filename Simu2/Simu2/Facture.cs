@@ -21,7 +21,14 @@ namespace Simu2
         }
         public override string ToString()
         {
-            return "Facture : "+Date+" -> " + Client + " achète " + Vehicule;
+            if (Vehicule is VTT)
+            {
+                return "Facture : " + Date + " -> " + Client + " achète " + Vehicule.ToString();
+            }
+            else
+            {
+                return "Facture : " + Date + " -> " + Client + " achète " + Vehicule.ToString();
+            }
         }
     }
 }
